@@ -2,7 +2,7 @@ NAME		=	Sully
 
 MAIN		=	Sully.c
 
-KIDS		=	Sully_*.c
+KIDS		=	Sully_*
 
 SRC			=	Sully.c
 
